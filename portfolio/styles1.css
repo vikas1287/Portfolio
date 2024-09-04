@@ -1,0 +1,349 @@
+.banner-section-image {
+    width: 280px;
+    margin-bottom: 10px;
+}
+
+.bg-color {
+    color: #9aa5b1;
+}
+
+.text {
+    border-style: solid;
+    padding: 8px;
+    border-color: #4b6cc1;
+    color: white;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+#item1 {
+    font-family: "Roboto";
+    font-weight: 300;
+}
+
+#item2 {
+    font-family: "Roboto";
+    font-weight: 300;
+}
+
+#item3 {
+    font-family: "Roboto";
+    font-weight: 300;
+}
+
+#item4 {
+    font-family: "Roboto";
+    font-weight: 300;
+}
+
+#item5 {
+    font-family: "Roboto";
+    font-weight: 300;
+}
+
+.banner-section {
+    background-color: #191a1d;
+    height: 100vh;
+}
+
+.header {
+    color: white;
+    font-family: "Roboto";
+    font-size: 30px;
+}
+
+.para {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.jn {
+    color: #4b6cc1;
+}
+.skills-section {
+    background-color: #323f4b;
+
+
+}
+
+.fact {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.abt {
+    color: white;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.para {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.about-mew {
+    width: 100%;
+}
+
+.skills {
+    background-color: #1f2933;
+    height: 50vh;
+    background-size: cover;
+}
+
+.skills-head {
+    color: #cced00;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.img-size {
+    height: 64px;
+    width: 60px;
+
+}
+.port-section {
+    background-color: #52606d;
+}
+
+.sub-head {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.main-head {
+    color: white;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.card-1 {
+    border-radius: 8px;
+    background-color: #323f4b;
+    padding: 20px;
+}
+
+.img-size {
+    height: 48px;
+    width: 48px;
+}
+
+.static-head {
+    color: white;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.static-para {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 25px;
+}
+.port-section1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    height: 50vh;
+    background-size: cover;
+}
+
+.icons {
+    color: white;
+    font-size: 15px;
+}
+
+.num {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.sub-head1{
+    color: white;
+    font-size: 20px;
+}
+
+.img {
+    font-size: 20px;
+}
+
+.hr {
+    background-color: white;
+    width: 60px;
+}
+
+.skills-card {
+    border-radius: 8px;
+    background-color: #323f4b;
+    padding: 10px;
+
+}
+
+.html-head {
+    color: white;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+}
+.port-section {
+    background-color: #3e4c59;
+
+}
+
+.port-para {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.proj-head {
+    color: white;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.card-1 {
+    border-radius: 8px;
+    background-color: #323f4b;
+}
+
+.prohe {
+    width: 100%;
+}
+
+.sub-head {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.hotel-head {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 5px;
+}
+
+.hotel-para {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 30px;
+}
+
+.read {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+
+}
+.port-test {
+    background-color: #1f2933;
+}
+
+.sub-head2 {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.main-head {
+    color: white;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.img2 {
+    height: 100px;
+    width: 100px;
+}
+
+.crush {
+    border-radius: 10px;
+    background-color: #323f4b;
+    padding: 15px;
+
+}
+
+.dis {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 25px;
+}
+
+.co {
+    color: white;
+    font-size: 20px;
+
+}
+.port-web {
+    background-color: #0d2436;
+}
+
+.footer-section-text {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.img-size3 {
+    border-radius: 40px;
+    height: 60px;
+    width: 60px;
+}
+
+.icon {
+    color: #5a7184;
+    font-size: 18px;
+}
+
+.j-head {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.j-role {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.bottom-section {
+    text-align: center;
+    background-color: #001c32;
+    text-align: center;
+    padding: 10px;
+
+}
+
+.circle {
+    color: #5a7184;
+    font-size: 18px;
+    text-align: center;
+
+}
+
+.footer-section-copyright-container {
+    text-align: center;
+    color: white;
+    background-color: #001c32;
+    padding: 10px;
+
+}
